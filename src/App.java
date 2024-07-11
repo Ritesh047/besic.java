@@ -3,6 +3,11 @@ public class App {
         System.out.println("Hello, Ritesh!");
         Car car1 = new Car();
         int int1 = 10;
+        car1.run();
+
+        Car car2 = new Car();
+        car2.run();
+
 
     }
 }
